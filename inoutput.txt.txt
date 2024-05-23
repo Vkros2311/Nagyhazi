@@ -1,0 +1,166 @@
+Caesar:
+
+Enter the text you'd like to encrypt:
+Szeretem a fagyit
+Choose the encryption method
+1. Caesar
+2. Vigenere
+3. ADFGVX
+4. Enigma
+Enter the number of the method:
+1
+Would you like to encode or decode the test?
+1. Encode
+2. Decode
+Enter the serial number of the mode:
+123
+Invalid input. Try again:
+1
+Enter the code:
+123
+The coded text is:
+Lsxkxmxf t ytzrbm
+
+Enter the text you'd like to encrypt:
+Lsxkxmxf t ytzrbm
+Choose the encryption method
+1. Caesar
+2. Vigenere
+3. ADFGVX
+4. Enigma
+Enter the number of the method:
+1
+Would you like to encode or decode the test?
+1. Encode
+2. Decode
+Enter the serial number of the mode:
+2
+Enter the code:
+123
+The coded text is:
+Szeretem a fagyit
+
+
+Vigenere:
+Enter the text you'd like to encrypt:
+Hello world!
+Choose the encryption method
+1. Caesar
+2. Vigenere
+3. ADFGVX
+4. Enigma
+Enter the number of the method:
+2
+Would you like to encode or decode the test?
+1. Encode
+2. Decode
+Enter the serial number of the mode:
+1
+Enter the code:
+legjobb
+The coded text is:
+Siruc xpcpj!
+
+Enter the text you'd like to encrypt:
+Siruc xpcpj!
+Choose the encryption method
+1. Caesar
+2. Vigenere
+3. ADFGVX
+4. Enigma
+Enter the number of the method:
+2
+Would you like to encode or decode the test?
+1. Encode
+2. Decode
+Enter the serial number of the mode:
+2
+Enter the code:
+legjobb
+The coded text is:
+Hello world!
+
+
+
+ADFGVX:
+Enter the text you'd like to encrypt:
+Legyen szabad a grund!
+Choose the encryption method     
+1. Caesar
+2. Vigenere
+3. ADFGVX
+4. Enigma
+Enter the number of the method:  
+3
+Would you like to encode or decode the test?
+1. Encode
+2. Decode
+Enter the serial number of the mode:
+1
+Enter the code:
+na1c3h8tb2oMe5Wrpd4F6G7i9j0klQsuV
+xYz
+privacY
+The coded text is:
+ggfVVaxaxavf aadfaxxdadgx df agaaxfgdfx!
+
+Enter the text you'd like to encrypt:
+ggfVVaxaxavf aadfaxxdadgx df agaaxfgdfx!
+Choose the encryption method     
+1. Caesar
+2. Vigenere
+3. ADFGVX
+4. Enigma
+Enter the number of the method:  
+3
+Would you like to encode or decode the test?
+1. Encode
+2. Decode
+Enter the serial number of the mode:
+2
+Enter the code:
+na1C3H8tb2Ome5WrPd4f6g7I9j0klQsuv //mindegy, hogy kis vagy nagybetűket írunk a kulcsnál
+xyZ
+privAcY
+The coded text is:
+Legyen szabad a grund!
+
+
+Enigma:
+Enter the text you'd like to encrypt:
+Szeretem a fagyit
+Choose the encryption method     
+1. Caesar
+2. Vigenere
+3. ADFGVX
+4. Enigma
+Enter the number of the method:  
+4
+Would you like to encode or decode the test?
+1. Encode
+2. Decode
+Enter the serial number of the mode:
+1
+Enter the code:
+145 1250 889
+The coded text is:
+Oyesgwir h okrkvh
+
+Enter the text you'd like to encrypt:
+Oyesgwir h okrkvh
+Choose the encryption method     
+1. Caesar
+2. Vigenere
+3. ADFGVX
+4. Enigma
+Enter the number of the method:  
+4
+Would you like to encode or decode the test?
+1. Encode
+2. Decode
+Enter the serial number of the mode:
+2
+Enter the code:
+145 1250 889
+The coded text is:
+Szeretem a fagyit
